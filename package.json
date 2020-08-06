@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "callback:challenge": "node callback/challenge.js",
-    "callback:ajax" : "node callback/callback-ajax.js",
-    "promise:challenge" : "node promise/challenge.js",
-    "async" : "node async/index.js",
-    "async:challenge" : "node async/challenge.js"
+    "callback:challenge": "node src/callback/challenge.js",
+    "callback:ajax" : "node src/callback/callback-ajax.js",
+    "promise:challenge" : "node src/promise/challenge.js",
+    "async" : "node src/async/index.js",
+    "async:challenge" : "node src/async/challenge.js"
   },
   "author": "",
   "license": "ISC",
